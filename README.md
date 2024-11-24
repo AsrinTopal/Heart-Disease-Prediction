@@ -71,6 +71,12 @@ The app uses the Heart Disease Dataset available on Kaggle, which includes vario
 - Dataset Source: [Kaggle - Heart Disease Dataset](https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset)
 
 ## App Screenshot
+![heartImage](https://github.com/user-attachments/assets/78265a30-c42a-4b1b-8fb4-04b1c582b54d)
+![Ekran görüntüsü 2024-11-24 163053](https://github.com/user-attachments/assets/d6e8e8fb-0333-47c3-97f2-af23952b2e67)
+![Ekran görüntüsü 2024-11-24 163121](https://github.com/user-attachments/assets/6656c88a-03e3-44b6-8063-c37794730452)
+![Ekran görüntüsü 2024-11-24 163427](https://github.com/user-attachments/assets/53489b5c-4e72-4268-a483-ed05949b9351)
+![Ekran görüntüsü 2024-11-24 163523](https://github.com/user-attachments/assets/19628a65-7c60-4d8c-a107-2810a2ce26a3)
+![Ekran görüntüsü 2024-11-24 163659](https://github.com/user-attachments/assets/edea5fbe-b89f-4a4f-919c-3f440daa6101)
 
 
 ## Explanation of Dataset Features
